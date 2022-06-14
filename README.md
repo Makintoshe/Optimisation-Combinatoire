@@ -1,5 +1,7 @@
 # Travail pratique d'optimisation Combinatoire
 
+Avant tout : n'oubliez pas de dézipper les fichiers datas et methods.
+
 ce travail pratique s'inscrit dans une série de mise en oeuvre des différentes heuristiques étudiées, 
 dans le but de résoudre le problème de sac à dos qui est un problème classique en optimisation combinatoire.
 
