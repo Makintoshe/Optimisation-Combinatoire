@@ -35,5 +35,5 @@ Source 1 - Cours d'Optimisation Combinatoire Master 1 de Sébastien Adam
 Source 2 - Recherche Opérationnelle TOME 1 de Jacques Teghem
 
 Sources 3 - Github : Honnêteté scientifique exige; je dois avoué que je me suis aussi inspiré de certains code trouvés sur Github, 
-afin d'éclaire certaines zone d'ombres rencontrés.
+afin d'éclaire certaines zone d'ombres rencontrés **(En particulier pour les algorithmes : génétiques et récuit simulés).**
 
